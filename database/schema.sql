@@ -1,0 +1,4 @@
+-- Initial database schema placeholder.
+-- Add migrations for users, trips, itineraries, bookings, expenses,
+-- buddy matches, guides, group trips, weather events, agent actions,
+-- photos and travel memories.
