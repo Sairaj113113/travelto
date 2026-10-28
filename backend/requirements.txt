@@ -6,3 +6,4 @@ psycopg[binary]
 pydantic
 pydantic-settings
 httpx
+CacheControl
